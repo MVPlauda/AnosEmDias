@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.AssemblyInfo.cs
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\dias vividos\bin\Debug\net7.0\dias vividos.exe
+C:\Users\plaud\Desktop\dias vividos\bin\Debug\net7.0\dias vividos.deps.json
+C:\Users\plaud\Desktop\dias vividos\bin\Debug\net7.0\dias vividos.runtimeconfig.json
+C:\Users\plaud\Desktop\dias vividos\bin\Debug\net7.0\dias vividos.dll
+C:\Users\plaud\Desktop\dias vividos\bin\Debug\net7.0\dias vividos.pdb
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.dll
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\refint\dias vividos.dll
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.pdb
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\dias vividos.genruntimeconfig.cache
+C:\Users\plaud\Desktop\dias vividos\obj\Debug\net7.0\ref\dias vividos.dll
